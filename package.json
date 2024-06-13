@@ -3,5 +3,8 @@
   "version": "1.0.0",
   "scripts": {
     "start": "npx http-server ./ -p 8080"
+  },
+  "dependencies": {
+    "@stk/domain": "^0.0.8"
   }
 }
